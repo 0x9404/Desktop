@@ -12,3 +12,6 @@
 ### Windows OOBE
 - Unplug ethernet or disable NIC
 - *>* OOBE\\BYPASSNRO
+
+### Find windows product key
+- wmic path softwarelicensingservice get OA3xOriginalProductKey
