@@ -14,4 +14,4 @@
 - *>* OOBE\\BYPASSNRO
 
 ### Find windows product key
-- wmic path softwarelicensingservice get OA3xOriginalProductKey
+- *>* wmic path softwarelicensingservice get OA3xOriginalProductKey
