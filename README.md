@@ -11,4 +11,4 @@
 
 ### Windows OOBE
 - Unplug ethernet or disable NIC
-- OOBE\\BYPASSNRO
+- > OOBE\\BYPASSNRO
