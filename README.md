@@ -15,3 +15,6 @@
 
 ### Find windows product key
 - *>* wmic path softwarelicensingservice get OA3xOriginalProductKey
+
+### Azure AD enrollment status
+- *>* dsregcmd /status
