@@ -18,3 +18,6 @@
 
 ### Azure AD enrollment status
 - *>* dsregcmd /status
+
+### View process with path
+- *>* wmic process get ProcessID,ExecutablePath
