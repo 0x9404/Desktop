@@ -22,5 +22,5 @@
 ### View process with path
 - *>* wmic process get ProcessID,ExecutablePath
 
-### View directory strutre with size
+### View directory structure with size
 - *>* dir /s /w [:\drive]
