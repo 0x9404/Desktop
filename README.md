@@ -19,6 +19,9 @@
 ### Azure AD enrollment status
 - *>* dsregcmd /status
 
+### Updating Group Policy settings
+- *>* gpupdate /force
+
 ### View process with path
 - *>* wmic process get ProcessID,ExecutablePath
 
