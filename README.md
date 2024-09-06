@@ -27,3 +27,7 @@
 
 ### View directory structure with size
 - *>* dir /s /w [:\drive]
+
+### View largest files for the current user
+- *>* dir $env:USERPROFILE -Recurse -File | Sort Length -Descending | Select-Object Length,FullName
+
