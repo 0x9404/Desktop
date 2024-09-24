@@ -31,3 +31,6 @@
 ### View largest files for the current user
 - *>* dir $env:USERPROFILE -Recurse -File | Sort Length -Descending | Select-Object Length,FullName
 
+### Drive mapping
+- *>* NET USE V: /DELETE /Y
+- *>* NET USE V: "\\github\"
