@@ -34,3 +34,6 @@
 ### Drive mapping
 - *>* NET USE V: /DELETE /Y
 - *>* NET USE V: "\\github\"
+
+### Show privileges
+- *>* whoami /all
