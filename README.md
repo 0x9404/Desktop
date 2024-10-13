@@ -37,3 +37,6 @@
 
 ### Show privileges
 - *>* whoami /all
+
+### View network interfaces
+- *>* Get-NetIPConfiguration
