@@ -43,3 +43,4 @@
 
 ### Driver verifier
 - *>* verifier
+- *>* verifier /reset
