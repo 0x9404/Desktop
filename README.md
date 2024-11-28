@@ -44,3 +44,8 @@
 ### Driver verifier
 - *>* verifier
 - *>* verifier /reset
+
+### BSOD Events
+- *>*  winget install Microsoft.WinDbg
+- *>* Get-WinEvent -FilterHashTable @{LogName='System'; ID=41,1001} | ft -AutoSize -Wrap
+
