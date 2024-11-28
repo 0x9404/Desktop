@@ -40,3 +40,6 @@
 
 ### View network interfaces
 - *>* Get-NetIPConfiguration
+
+### Driver verifier
+- *>* verifier
