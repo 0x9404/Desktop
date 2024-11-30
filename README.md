@@ -51,3 +51,6 @@
 
 ### View cached kerberos tickets
 - *>* klist
+
+### Check file ext associations 
+- *>* assoc
